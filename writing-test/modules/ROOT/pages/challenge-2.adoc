@@ -26,4 +26,4 @@ Manager then goes over the branch looking for errors or conflicts and requests c
 After the issues are resolved, the branch will be merged with the main repository.
 
 For example I can download a game mod (unofficial game modification) from Git and create a language package it did not have yet, thus creating a branch. 
-Afterwards I have to ask the owner/creator of the mod to integrate it in the final version, but they first have to check if the mod still works with the new addition, as it could be incompatible or contain typos.
+Afterwards I have to ask the owner/creator of the mod to integrate it into the final version, but they first have to check if the mod still works with the new addition, as it could be incompatible or contain typos.

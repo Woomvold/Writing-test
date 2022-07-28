@@ -1,0 +1,29 @@
+= Challenge 2
+
+Your second challenge awaits! 
+
+In this challenge, we want to see how comfortable you are explaining a technical topic.
+
+Your audience is someone technical, but new to link:https://en.wikipedia.org/wiki/Version_control[version control^].
+
+== Instructions
+
+. Explain what a merge request/pull request is.
+. Give examples on how to use it.
+
+== Answer
+
+ 
+Git is a form of version control, which is the practice of tracking and managing changes to the source code. 
+It can be thought of as different versions of a CV, as it changes and expands with each year, you could track the changes by assigning each version with a number according to a year and keeping a separate document with changes written out for each version.
+
+Git allows this for multiple developers. 
+Each developer can work on a different aspect of the same software while not conflicting with the others' work. 
+This is possible through "branching", a process where each developer has their own copy of the software on their local machine. 
+
+Git pull happens, when a developer believes their work to be ready and requests a responsible person (repository manager) to merge their branch with the main software. 
+Manager then goes over the branch looking for errors or conflicts and requests corrections from the developer. 
+After the issues are resolved, the branch will be merged with the main repository.
+
+For example I can download a game mod (unofficial game modification) from Git and create a language package it did not have yet, thus creating a branch. 
+Afterwards I have to ask the owner/creator of the mod to integrate it in the final version, but they first have to check if the mod still works with the new addition, as it could be incompatible or contain typos.

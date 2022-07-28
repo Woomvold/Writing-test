@@ -1,0 +1,40 @@
+= Challenge 1
+
+Your first challenge awaits! 
+
+In this challenge, we want to get an idea of your writing style as it relates to software and computer technology.
+
+== Instructions
+
+. Choose any software or application that you use regularly.
+. Write instructions on how to perform a common task related to the software or application.
+
+.Example please?
+****
+Some ideas to get you started:
+
+* Sending an attachment in link:https://signal.org/[Signal^].
+* Forwarding an email with link:https://www.google.com/gmail/about/[Gmail^].
+* Publishing a blog post with link:https://wordpress.com/[Wordpress^].
+* Adding an extension to link:https://code.visualstudio.com/[Visual Studio Code^].
+* Taking a screenshot with an link:https://www.apple.com/iphone/[iPhone^].
+****
+
+TIP: Keep the task concise. There's no need to over-complicate the instructions.
+
+== Answer
+
+
+== Installing a game on Steam
+
+
+. Open your Steam app.
+. Select "LIBRARY" from the upper-left corner menu.
+. Your games are in a column on the left, select the one you want to install. +
+You can use the search line on top of the column if you have a large library.
+. Right click your game and select "INSTALL"
+. An installation window will pop up, you can choose an installation directory and whether or not to create shortcuts.
+. Click "Next" in the bottom-right of the window, your game will download and install automatically.
+. Enjoy.
+
+TIP: All these steps are also demonstrated in this short https://www.loom.com/share/efb0da62b7f642299971d92265cb11b9[video]
